@@ -1,0 +1,9 @@
+[user]
+	name = Youngjin Kim
+	email = zmfjrxmfjr@naver.com
+	signingkey = DA17E026820B32F9
+[core]
+	precomposeunicode = true
+	quotepath = false
+[commit]
+	gpgsign = true
